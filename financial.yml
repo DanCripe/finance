@@ -1,0 +1,19 @@
+start_year: 2020
+end_year: 2060
+age: 57
+spouse_age: 63
+assets:
+  last_edited: "11/20/2019"
+  ordinary_income: 1128977
+  tax_free: 534513
+  capital_gains: 529420
+  cost_basis: 348550
+income:
+  social_security: 3385
+  social_security_age: 70
+  spouse_social_security: 1737
+  spouse_social_security_age: 70
+expenses: 75000
+tax_rate: 24
+std_deduction: 24800
+non_std_deduction: 24800
