@@ -1,0 +1,31 @@
+#!/bin/bash
+
+./financial --balance 0
+./financial --balance 10
+./financial --balance 20
+./financial --balance 30
+./financial --balance 40
+./financial --balance 41
+./financial --balance 42
+./financial --balance 43
+./financial --balance 44
+./financial --balance 45
+./financial --balance 46
+./financial --balance 47
+./financial --balance 48
+./financial --balance 49
+./financial --balance 50
+./financial --balance 51
+./financial --balance 52
+./financial --balance 53
+./financial --balance 54
+./financial --balance 55
+./financial --balance 56
+./financial --balance 57
+./financial --balance 58
+./financial --balance 59
+./financial --balance 60
+./financial --balance 70
+./financial --balance 80
+./financial --balance 90
+./financial --balance 100
